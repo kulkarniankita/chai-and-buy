@@ -1,5 +1,7 @@
 # Chai and Buy
 
+> This project is part of [the Modern Full Stack Next.js Course](https://nextjscourse.dev/?ref=chai-and-code). If you'd like to learn how this project is built, check out the course!
+
 A simple e-commerce app built with [Next.js](https://nextjs.org/) and React, featuring animated cart functionality and a modern UI.
 
 ## Features
