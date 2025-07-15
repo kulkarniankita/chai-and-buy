@@ -4,6 +4,8 @@
 
 A simple e-commerce app built with [Next.js](https://nextjs.org/) and React, featuring animated cart functionality and a modern UI.
 
+Follow the instructions in the course module to learn more about the exercises.
+
 ## Features
 
 - Product listing with images, names, and prices
